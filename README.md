@@ -103,5 +103,6 @@ Compare multiple literary works
 
 👤 Author
 
-Minhyuk Choi
+Minhyeok Choi
+
 Aspiring Data Analyst / NLP Enthusiast
